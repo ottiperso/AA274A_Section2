@@ -1,2 +1,2 @@
-# AA274A_Section2
-AA 274A Section (Lab) 2 Group Repo
+# AA274A_Sections
+AA 274A Sections (Labs) Group Repo
